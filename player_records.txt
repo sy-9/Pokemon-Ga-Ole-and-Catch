@@ -1,0 +1,4 @@
+null,0,[Charmander; Vulpix],0
+2,0,[Charmander; Vulpix],0
+333,0,[Charmander; Vulpix],0
+1,0,[Charmander; Geodude; Poliwag; Bayleef; Charmander; Totodile; Totodile; Mudkip],0

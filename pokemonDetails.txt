@@ -1,0 +1,20 @@
+1,Geodude,Rock,100,Rare,Rock Slide,40,50
+2,Onix,Rock,80,Common,Stone Edge,30,40
+3,Larvitar,Rock,90,Uncommon,Rock Blast,35,45
+4,Omanyte,Rock,110,Rare,Ancient Power,45,35
+5,Aron,Rock,85,Uncommon,Crunch,40,30
+6,Bulbasaur,Grass,90,Uncommon,Solar Beam,35,25
+7,Oddish,Grass,70,Common,Leaf Storm,25,20
+8,Bayleef,Grass,80,Common,Razor Leaf,30,25
+9,Chikorita,Grass,85,Uncommon,Energy Ball,33,27
+10,Exeggcute,Grass,95,Rare,Giga Drain,40,35
+11,Squirtle,Water,100,Rare,Hydro Pump,45,35
+12,Psyduck,Water,60,Common,Water Gun,20,10
+13,Mudkip,Water,80,Common,Bubble Beam,30,25
+14,Totodile,Water,90,Uncommon,Aqua Tail,35,30
+15,Poliwag,Water,95,Rare,Surf,42,33
+16,Charmander,Fire,90,Rare,Fire Blast,50,30
+17,Growlithe,Fire,80,Uncommon,Heat Wave,40,25
+18,Cyndaquil,Fire,85,Uncommon,Flame Wheel,45,28
+19,Magmar,Fire,95,Common,Flamethrower,50,35
+20,Vulpix,Fire,90,Rare,Ember,48,32
